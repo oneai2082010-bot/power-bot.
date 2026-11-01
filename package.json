@@ -1,0 +1,8 @@
+{
+  "name": "power-bot",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "@upstash/redis": "^1.28.0"
+  }
+}
